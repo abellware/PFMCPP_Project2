@@ -93,22 +93,22 @@ ignoreUnused(canSwim);
 bool sitsOnEgg;
 ignoreUnused(sitsOnEgg);
 
-float numFlocks = 2; FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
+float numFlocks = 2.09; FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
 ignoreUnused(numFlocks);
 
-float waterTemp = -2;  FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
+float waterTemp = -2.8;  FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
 ignoreUnused(waterTemp);
 
-float visitingPolarBears = 4; FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
+float visitingPolarBears = 4.5; FIXME these are floats being initialized with Integers on the right side of the '='.  Please make the right side arg a float.
 ignoreUnused(visitingPolarBears);
 
-double penguinEnnui = 12345678910; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
+double penguinEnnui = 12345678910.1145; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
 ignoreUnused(penguinEnnui);
 
-double penguinIntuition = 1112131415; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
+double penguinIntuition = 12345678901.1245; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
 ignoreUnused(penguinIntuition);
 
-double penguinInspiration = 161514131211; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
+double penguinInspiration = 161514131211.444; FIXME these are doubles being initialized with Integers on the right side of the '='.  Please make the right side arg a double.
 ignoreUnused(penguinInspiration);
 
 FIXME try passing all of your variables to ignoreUnused all at once.  See line 122 for an example of doing this (that function has 2 arguments)
